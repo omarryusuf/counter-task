@@ -1,4 +1,4 @@
-const countDownDate = new Date("Aug 23, 2024 11:30:00").getTime();
+const countDownDate = new Date("Nov 10, 2024 11:30:00").getTime();
 const days = document.getElementById("days");
 const hours = document.getElementById("hours");
 const minutes = document.getElementById("minutes");
